@@ -535,6 +535,12 @@ li:hover{
     }
   
   }
+
+@media screen and (max-width:1920px){
+    .herobg{
+        width: 1910px;
+    }
+}
   
   
 
